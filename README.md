@@ -1,0 +1,2 @@
+# LogicalOperators
+create truth tables
